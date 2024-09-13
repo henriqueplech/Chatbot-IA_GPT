@@ -7,10 +7,10 @@
   </li>
   <li>
     Access the GPT website dashboard and create an API key, if you have already created one, try using another email.
+        <a href="https://platform.openai.com/api-keys">Click here<a/>
   </li>
   <li>
     Within your project, create a .env.local file and then place your API-KEY following this example: OPENAI_API_KEY="pipipi-popopo"
-    <a href="https://platform.openai.com/api-keys">Click here<a/>
   </li>
   <li>
     Ready now just run 'npm install' and run 'npm run dev'

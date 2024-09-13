@@ -10,7 +10,7 @@
     <a href="https://platform.openai.com/api-keys">Click here<a/>
   </li>
   <li>
-    Within your project, create a .env.local file and then place your API-KEY following this example: OPENAI_API_KEY="pipipi-popopo"
+    Within your project, create a '.env.local' file and then place your API-KEY following this example: OPENAI_API_KEY="pipipi-popopo"
   </li>
   <li>
     Ready now just run 'npm install' and run 'npm run dev'

@@ -6,7 +6,7 @@
     Clone this repository in a folder of your choice using git clone...
   </li>
   <li>
-    Access the GPT website dashboard and create an API key, if you have already created one, try using another email.
+    Access the GPT website dashboard and create an API key, if you have already created one, try using another email.</br>
     <a href="https://platform.openai.com/api-keys">Click here<a/>
   </li>
   <li>
